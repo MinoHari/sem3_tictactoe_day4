@@ -14,4 +14,4 @@ Pour tester lancer le programme dans votre terminal,
 ===> Pour quitter le jeu, appuyez sur **"q"** ou **"quit"**
 
 ## Team_Mada
-Amusez-vous bien !
+Amusez-vous bien ! :thumbsup:
